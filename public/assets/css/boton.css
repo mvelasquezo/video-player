@@ -1,0 +1,7 @@
+@import "./boton-apa.css";
+
+.boton {
+    block-size: 32px;
+    inline-size: 32px;
+    border: none;
+}
