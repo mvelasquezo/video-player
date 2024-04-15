@@ -1,0 +1,26 @@
+.boton.apa {
+    cursor: pointer;
+    background-color: initial;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.boton.apa:active {
+    transform: scale(0.8);
+}
+
+.boton.apa.play {
+    background-image: url(../icons/play.svg);
+}
+
+.boton.apa.pause {
+    background-image: url(../icons/pause.svg);
+}
+
+.boton.apa.backward {
+    background-image: url(../icons/-10.svg);
+}
+
+.boton.apa.forward {
+    background-image: url(../icons/+10.svg);
+}
